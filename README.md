@@ -1,3 +1,3 @@
 # Learning-github
-first repo  learning github
+first repo  learning(github)
 
